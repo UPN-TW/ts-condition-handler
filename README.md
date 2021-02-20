@@ -1,4 +1,4 @@
-# ts-condition-handler
+# ts-condition-handler [![Version](https://img.shields.io/npm/v/ts-condition-handler.svg)](https://www.npmjs.com/package/ts-condition-handler)
 
 Execute the corresponding handler by customized definition in a declarative way.
 

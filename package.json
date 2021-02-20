@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "condition-handler",
+  "name": "ts-condition-handler",
   "author": "guansunyata",
   "module": "dist/condition-handler.esm.js",
   "size-limit": [
