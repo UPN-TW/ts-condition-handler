@@ -12,7 +12,7 @@ function main() {
     // do something that may throw an error in a specific type
     doSomething()
   } catch (err) {
-    conditionHandler(error)
+    conditionHandler(err)
       .on(CustomerNotFound, handleCustomerNotFound)
       .on(CustomerCreditLimitExceeded, handleCustomerCreditLimitExceeded)
       .fallback(handleUnknownError)
